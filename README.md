@@ -1,6 +1,6 @@
-# Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" />
+# Hi there 
          
-    I'm Mauricio!
+    I'm Mauricio! and I'm learging everyday 🤓
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mauriciorey03/mauriciorey03/output/github-contribution-grid-snake-dark.svg">
@@ -9,7 +9,6 @@
 </picture>
 
  🌱 I’m currently learning about *MySQL*
- I'm learging everyday 🤓
 
 
 ### 💻 Tech Stack:
