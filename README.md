@@ -1,7 +1,7 @@
 # Hi there  <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="35" width="35" />
          
-    I'm Mauricio! and I'm learning everyday 🤓
-🌱 I’m currently learning about *JAVA* ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+    🌱 I'm Mauricio! and I'm active learner🤓
+ 
 
 
 
